@@ -85,7 +85,7 @@ This app uses **Provider** for state management, handling:
 
 - Theme changes (Light/Dark modes)
 - Encryption/decryption history updates
-- Settings preferences and encryption method selections
+  
 
 Provider ensures efficient UI rebuilds and a smooth user experience.
 
